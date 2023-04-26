@@ -19,7 +19,10 @@
 ```bash
   python -m playwright install
 ```
-4. Open config.ini and configure the script
+4. Open example-config.ini and configure the script, then run
+```bash
+  mv example-config.ini config.ini
+```
 5. Run main.py
 ```bash
   python main.py
