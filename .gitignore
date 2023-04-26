@@ -1,0 +1,8 @@
+.python-version
+config.ini
+__pycache__
+redditshortvideomaker-b48962005a2d.json
+/assets/*
+!/assets/.gitkeep
+.DS_Store
+output.mp4
